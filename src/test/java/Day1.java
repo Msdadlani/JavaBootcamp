@@ -13,7 +13,7 @@ public class Day1 {
     }
 
     @Test
-    public void test003() {
+    public void test004() {
         int number;
 
         number = 4;
